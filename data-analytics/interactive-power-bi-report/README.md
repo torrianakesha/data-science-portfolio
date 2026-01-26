@@ -7,7 +7,7 @@
 # 📊 Interactive Power BI Sales Report
 
 <p align="center">
-  <img src=".datacamp-isko/assets/sample-product-sales.png" alt="Power BI Sales Dashboard" width="800"/>
+  <img src="./datacamp-isko/assets/sample-product-sales.png" alt="Power BI Sales Dashboard" width="800"/>
 </p>
 
 ## Overview
