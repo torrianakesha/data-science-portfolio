@@ -1,0 +1,32 @@
+# Datasets
+dataset/
+data/
+*.zip
+*.tar
+*.tar.gz
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.log
+
+# YOLOv5 Outputs
+runs/
+weights/
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Experiment Tracking
+wandb/
