@@ -7,12 +7,13 @@
 # 📊 Interactive Power BI Sales Report
 
 <p align="center">
-  <img src="./assets/sample-product-sales.png" alt="Power BI Sales Dashboard" width="800"/>
+  <img src=".datacamp-isko/assets/sample-product-sales.png" alt="Power BI Sales Dashboard" width="800"/>
 </p>
 
 ## Overview
 This project showcases my previous **Power BI dashboards** created as part of the *DataCamp – Introduction to Power BI* course. The report focuses on visualizing product sales trends and demonstrates how Power BI can be used for business insight and data storytelling.
 
+> **Disclaimer:** This project is based on guided exercises from DataCamp’s *Introduction to Power BI* course and is shared for educational and portfolio purposes only. All course materials and underlying datasets are the property of their respective owners.
 ---
 
 ## What I Learned
@@ -47,5 +48,3 @@ This project reflects the practical exercises and concepts covered in the course
 ## Resources
 - DataCamp: https://www.datacamp.com  
 - Power BI Introduction Course: https://www.datacamp.com/courses/introduction-to-power-bi  
-
-> **Disclaimer:** This project is based on guided exercises from DataCamp’s *Introduction to Power BI* course and is shared for educational and portfolio purposes only. All course materials and underlying datasets are the property of their respective owners.
