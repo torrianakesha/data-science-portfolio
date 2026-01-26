@@ -15,7 +15,7 @@ This project showcases my previous **Power BI dashboards** created as part of th
 
 <br />
 > [!NOTE] 
-This project is based on guided exercises from DataCamp’s *Introduction to Power BI* course and is shared for educational and portfolio purposes only. All course materials and underlying datasets are the property of their respective owners.
+> This project is based on guided exercises from DataCamp’s *Introduction to Power BI* course and is shared for educational and portfolio purposes only. All course materials and underlying datasets are the property of their respective owners.
 ---
 
 ## What I Learned
