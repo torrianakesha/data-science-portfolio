@@ -19,9 +19,9 @@ A curated collection of my data science projects, spanning **machine learning**,
 ## 📌 Table of Contents
 
 1. [Project Categories](#project-categories)
-    - [Data Analytics](\data-analytics)
-    - [Intelligent Agents](\intelligent-agents)
-    - [Machine Learning](\machine-learning)
+    - [Data Analytics](data-analytics)
+    - [Intelligent Agents](intelligent-agents)
+    - [Machine Learning](machine-learning)
 2. [How to Get Started](#how-to-get-started)
 3. [Tools / Tech Stack](#tools--tech-stack)
 4. [License](#license)
