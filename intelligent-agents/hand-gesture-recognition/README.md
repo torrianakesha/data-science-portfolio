@@ -7,7 +7,7 @@
 # 🤖 Hand Gesture Recognition System
 
 <p align="center">
-  <img src="./assets/preview.jpg" alt="Hand Gesture Preview" width="800"/>
+  <img src="./Assets/preview.jpg" alt="Hand Gesture Preview" width="800"/>
 </p>
 
 ## Overview
@@ -25,7 +25,7 @@ To develop a real-time hand gesture recognition system that interprets webcam in
 - Sample training dataset included for reproducibility  
 
 ## Model Training & Evaluation
-<p align="center"> <img src="./assets/decision-tree-model.jpg" alt="Decision Tree Training Results" width="800"/> </p>
+<p align="center"> <img src="./Assets/decision-tree-model.jpg" alt="Decision Tree Training Results" width="800"/> </p>
 
 ## Training Process
 - Loaded and explored the annotated dataset from trainingdata.csv using Pandas
