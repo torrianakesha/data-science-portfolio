@@ -31,7 +31,8 @@ A curated collection of my data science projects, spanning **machine learning**,
 ### 📊 Data Analytics
 Folder: `data-analytics/`
 *(Explore business insights, dashboards, and analytical reporting workflows)*
-- **Power BI Reports** – Business Intelligence dashboards and data summaries using Power BI.
+- **Introduction to Power BI** – Business Intelligence dashboards and data summaries using Power BI.
+- **Introduction to DAX** - In progress...
 
 ### 🧠 Intelligent Agents
 Folder: `intelligent-agents/`
