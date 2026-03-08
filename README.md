@@ -9,14 +9,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 Data Science Portfolio [MIT License](LICENSE)
+# Data Science Portfolio [MIT License](LICENSE)
 A curated collection of my data science projects, spanning **machine learning**, **intelligent agents**, and **data analytics** — focused on real-world problem solving and data-driven decision making.
 
 > This repository serves as a central hub for my work, showcasing how data can be transformed into actionable insights, predictive models, and intelligent systems.
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 1. [Project Categories](#project-categories)
     - [Data Analytics](data-analytics)
@@ -26,7 +26,7 @@ A curated collection of my data science projects, spanning **machine learning**,
 3. [Tools / Tech Stack](#tools--tech-stack)
 4. [License](#license)
 
-## 📁 Project Categories
+## Project Categories
 
 ### 📊 Data Analytics
 Folder: `data-analytics/`
@@ -48,7 +48,7 @@ Folder: `machine-learning/`
 
 ---
 
-## 🚀 How to Get Started?
+## How to Get Started?
 To explore or run any project locally:
 
 ### 1. Clone This Repository
